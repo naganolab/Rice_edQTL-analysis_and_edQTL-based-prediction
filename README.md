@@ -1,5 +1,5 @@
 # Rice_edQTL-analysis_and_edQTL-based-prediction
-Dependecies
+Dependencies
 R version 3.4.2
 RStudio version 1.1.456
 
@@ -10,9 +10,10 @@ FIT version 0.0.4
 
 Description:  
 The R scripts for edQTL detection and GxE-based prediction of gene expression and preparation of the figures of the below paper.
+The all input data are included.
 
 Usage
-Download https://github.com/naganolab/Rice_edQTL-analysis_and_edQTL-based-prediction. Then, run R, open Os_edQTL.Rproj with Rstudio and exacute Analysis.R
+Download https://github.com/naganolab/Rice_edQTL-analysis_and_edQTL-based-prediction. Then, run R, open Os_edQTL.Rproj with RStudio and execute Analysis.R
 
 Citation
 Makoto Kashima, Ryota L. Sakamoto, Hiroki Saito, Satoshi Ohkubo, Ayumi Tezuka, Ayumi Deguchi, Yoichi Hashida, Yuko Kurita, Atsushi J. Nagano, Prediction of environmental response in field-grown rice using expression-dynamics-QTL, bioRxiv 451609; doi: https://doi.org/10.1101/451609
