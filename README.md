@@ -3,12 +3,15 @@
 Makoto Kashima and Atsushi J. Nagano.
 # Dependencies
 R version 3.4.2
+
 RStudio version 1.1.456
 
 R libraries
-  vcfR version 1.5.0
-  fields version 9.0
-  FIT version 0.0.4
+vcfR version 1.5.0
+
+fields version 9.0
+
+FIT version 0.0.4
 
 # Description
 The R scripts for edQTL detection and GxE-based prediction of gene expression and preparation of the figures of the below paper.
